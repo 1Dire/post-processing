@@ -10,8 +10,7 @@
   },
   "devDependencies": {
     "vite": "^5.3.3",
-    "vite-plugin-restart": "^0.4.1",
-    "deploy" : "vercel --prod"
+    "vite-plugin-restart": "^0.4.1"
   },
   "dependencies": {
     "lil-gui": "^0.19.2",
